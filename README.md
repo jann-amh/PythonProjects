@@ -1,5 +1,6 @@
 <h1> PythonProjects </h1>
-    <table<>
+<h2> Math Games </h2>
+    <table>
         <tr>
             <td>
                 <a href="https://github.com/jann-amh/PythonProjects/blob/master/MathGame.py"> MathGame0.1 </a>
