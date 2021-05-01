@@ -3,7 +3,6 @@ random.seed()
 
 rdm1 = random.randint(1, 10)
 rdm2 = random.randint(1, 10)
-
 solution = rdm1 + rdm2
 print("The task:" , rdm1, "+" , rdm2,)
 
