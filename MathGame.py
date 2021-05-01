@@ -1,7 +1,6 @@
 import random
 random.seed()
 
-#Added the 
 rdm1 = random.randint(1, 10)
 rdm2 = random.randint(1, 10)
 
