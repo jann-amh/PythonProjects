@@ -9,4 +9,12 @@
                 In this little game, the programm gives u a mathematical task based on two numbers, <br> and ur task it to find the right solution. If the solution is wrong it gives u the right solution.
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href=""> MathGame0.2 </a>
+            </td>
+            <td>
+                This Version of the programm shows u the amount of trys u needed to solve the task.
+            </td>
+        </tr>
     </table>
