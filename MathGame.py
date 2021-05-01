@@ -1,4 +1,3 @@
-#Improted the module random
 import random
 random.seed()
 
